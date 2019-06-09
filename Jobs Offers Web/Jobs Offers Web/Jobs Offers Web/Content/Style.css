@@ -1,0 +1,94 @@
+﻿@font-face
+{
+font-family:myFont;
+src:url('font/GE_SS_Two_Bold.otf')
+}
+@font-face
+{
+font-family:myFont2;
+src:url('font/DroidKufi-Regular.ttf')
+}
+body
+{
+    font-family:myFont2;
+}
+/* Start Makeup Navbar */
+.navbar-default 
+{
+    background-color: #0c5c82;
+    border-color: #e7e7e7;
+}
+.logo-size
+{
+    width:120px;
+    height:62px;
+    margin-top:-7px;
+}
+#serchname{
+    width:130px;
+    border: 2px solid #ccc;
+    border-radius:5px;
+    background-color:white;
+    background-image: url('../Images/Logo.png');
+    background-repeat:no-repeat;
+    background-position:10px 10px;
+    padding:12px 20px 12px 12px;
+    transition:width 0.4s ease-in-out;
+
+}
+#serchname:focus{
+    width:100%;
+}
+
+.navbar-default .navbar-nav > li > a
+{
+    color: #e7e7e7;
+    font-family:myFont;
+}
+.navbar-default .navbar-nav > li > a:hover
+{
+    color: #fff;
+}
+.nav>li 
+{
+    position: relative;
+    display: block;
+    height: 70px;
+    padding-top: 10px;
+}
+/* End Makeup Navbar */
+
+/* Start Makeup Footer */
+.myfooter
+{
+background-color:cornflowerblue;
+padding-top:10px;
+font-family:myFont;
+text-align:justify;
+}
+.subfooter 
+{
+background-color:#0c5c82;
+color:white;
+padding:10px;
+text-align:center;
+}
+.myfooter a
+{
+    color:azure;
+}
+.myfooter p
+{
+    color:azure;
+}
+.myfooter h3,ul,p
+{
+    margin-bottom:20px;
+    font-family:myFont2;
+    list-style-type:none;
+}
+.myfooter .S_h3
+{
+    color:#333;
+}
+    /* End Makeup Footer */

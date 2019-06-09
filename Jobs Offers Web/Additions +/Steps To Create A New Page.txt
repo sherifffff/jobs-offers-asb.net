@@ -1,0 +1,48 @@
+1 - ÇáĞåÈ Åáí ãáÌÏ Models Ëã Add Ëã Class Ëã äßÊÈ ÃÓã ÇáßáÇÓ 
+2 - äÏÎá Çáí ÇáßáÇÓ æäŞæã ÈÊÚÑíİ ÎÕÇÆÕ ÇáÎÇÕå ÈÜ ÇáÌÏæá ÇáãÑÇÏ ÅäÔÇÁå ßÜ ÇáÃÊí 
+
+     [Required]
+        [Display(Name ="äæÚ ÇáæÙíİÉ")]
+        public string CategoryName { get; set; }
+
+3 - ÈÚÏ ÊÚÑíİ ßá ÎÕÇÆÕ ÇáÌÏæá äŞæã ÈÜ Úãá Bulid áÜ ÇáãÔÑæÚ ÍÊí äÓÊØíÚ ÅäÔÇÁ Contriller áÜ ÇáßáÇÓ ÇáãäÔÃ
+4 - áæ ßÇä åäÇß ÚáÇŞÉ Èíä ÇáÌÏæá ÇáãäÔÃ ÇáÂä æÌÏæá ÃÎÑ äŞæã ÈÜ ÅÌÑÇÁ ÇáÚáÇŞÉ ÃæáÇğ 
+İÜ ÇáÌÏæá ÇáÃßÈÑ ( ÇáÃÕäÇİ ) íåÇÌÑ Åáí ÇáÃÕÛÑ ( ÇáæÙÇÆİ ) äĞåÈ Åáí ÌÏæá ÇáÃÕÛÑ ( ÇáæÙÇÆİ ) æäßÊÈ ÇáÃÊí 
+        /*ÈÏÇíÉ ßæÏ ÇáÑÈØ */
+
+        /* ÑÈØ ÌÏæá ÇáÃÕäÇİ ÈÜ ÌÏæá ÇáæÙÇÆİ */
+        [DisplayName("äæÚ ÇáæÙíİÉ")]
+        public int CategoryID { get; set; }
+
+        /* äŞã ÈÅäÔÇÁ ãæÖæÚ ( ÇÈæÌßÊ ) ãä äæÚ ÇáßáÇÓ ÇáãÑÈØ Èå */ 
+        public Category Category { get; set; }
+
+        /*äåÇíÉ ßæÏ ÇáÑÈØ */ 
+
+Ëã äĞåÈ Åáí ÇáÌÏæá ÇáÃÕİÑ ( ÇáÃÕäÇİ ) æäßÊÈ ÇáÃÊí 
+
+        /* ÈÏÇíÉ ßæÏ ÇáÑÈØ ÇáÊÇäí */
+
+        public ICollection<Job> Jobs { get; set; }
+
+        /* äåÇíÉ ßæÏ ÇáÑÈØ ÇáÊÇäí */
+
+5 - äĞåÈ Åáí ÇáãÔæÑÚ æäÚãá Build Ëã äĞåÈ Åáí ãÌáÏ Contriller Ëã Add Ëã Contriller Ëã äÎÊÇÑ MVC 5 Controller With Views Using Entity Framework
+6 - ÊÙåÑ ÔÇÔÉ add controller äÎÊÇÑ ÃÓã İÜ ÎÇäÉ Model Class Ëã İÜ Data Context Class äÎÊÇÑ ÇáÇÊí : 
+ApplicationDbContext (WebApplication1.Models)
+Ëã äŞæã ÈÚãá ÊÍÏíÏ áÜ ÎíÇÑ Generate Views
+ 7 - 
+
+
+
+
+
+
+
+
+
+
+
+
+
+

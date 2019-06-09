@@ -1,0 +1,12 @@
+  **** in File Web.config ****
+
+<!-- Start Contact Text-->
+   <connectionStrings>
+     <add name ="DefaultConnection"
+          connectionString="Data Source = (LocalDB)\MSSQLLocalDB;
+          AttachDbFileName =|DataDirectory|\JobDB.mdf;
+          Initial Catalog = JobDB;
+          Intergrated Security=True"
+     providerName="System.Data.SqlClient"/>
+   </connectionStrings>
+    <!-- End Contact Text-->

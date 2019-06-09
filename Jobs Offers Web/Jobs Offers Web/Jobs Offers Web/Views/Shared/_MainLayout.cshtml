@@ -1,0 +1,217 @@
+﻿<!DOCTYPE html>
+
+<html>
+<head>
+    <!-- Make Responsive in Phones >> (Meta)-->
+    <meta name="viewport" content="width=device-width,initial scale=1" />
+    <title>@ViewBag.Title</title>
+    <!-- Files Content -->
+    <link href="~/Content/bootstrap.min.css" rel="stylesheet" />
+    <link href="~/Content/Style.css" rel="stylesheet" />
+</head>
+<body>
+
+    <div>
+        <!--Start Navbar-->
+        <nav class="navbar navbar-default navbar-fixed top">
+
+            <!--Start Container-->
+
+            <div class="container">
+
+                <!-- Start Navbar Header () -->
+
+                <div class="navbar-headar">
+
+                    <!-- Start Button () -->
+                    <button class="navbar-toggle collapsed" data-toggle="collapsed"
+                            data-target="#navbar">
+
+                        <!-- Start Span () -->
+                        <span class="icon-bar"></span>
+                        <span class="icon-bar"></span>
+                        <span class="icon-bar"></span>
+                        <!-- End Span () -->
+
+                    </button>
+                    <!-- End Button () -->
+                    <!-- Start Link (a) -->
+                    <a href="#" class="navbar-brand">
+                        <img src="~/Images/Logo.png" class="logo-size" />
+                    </a>
+                    <!-- End Link (a) -->
+
+                </div>
+                <!-- End Navbar Header () -->
+                <!-- Start Navbar UL () -->
+
+                <div id="navbar" class="navbar-collapsed collapsed">
+
+                    <!-- Start UL #1 () -->
+
+                    <ul class="nav navbar-nav">
+
+                        <!-- Start Element #1 () -->
+                        <li>
+                            <a href="#">
+                                <i class="glyphicon glyphicon-home"></i>
+                                الرئيسية
+                            </a>
+                        </li>
+                        <!-- End Element #1 () -->
+                        <!-- Start Element #2 () -->
+                        <li>
+                            <a href="#">
+                                <i class="glyphicon glyphicon-folder-open"></i>
+                                أصناف العروض
+                            </a>
+                        </li>
+                        <!-- End Element #2() -->
+                        <!-- Start Element #3 () -->
+                        <li>
+                            <a href="#">
+                                <i class="glyphicon glyphicon-info-sign"></i>
+                                حول الموقع
+                            </a>
+                        </li>
+                        <!-- End Element #3 () -->
+                        <!-- Start Element #4 () -->
+                        <li>
+                            <a href="#">
+                                <i class="glyphicon glyphicon-envelope"></i>
+                                اتصل بنا
+                            </a>
+                        </li>
+                        <!-- End Element #4 () -->
+
+                        <!-- Start Element #5 () -->
+                        <li>
+                            @using (Html.BeginForm("search", "home", FormMethod.Post))
+                            {
+                                <input type="text" name="searchname" id="searchname" 
+                                       placeholder="ابحث هنا"/>
+                            }
+
+                        </li>
+                        <!-- End Element #5 () -->
+
+                    </ul>
+                    <!-- End UL #1 () -->
+                    <!-- Partial Login Cut To _Login-->
+                    <!--Calling Form _Login-->
+                    <!--===================================-->
+                    <!-- Start UL #2 () -->
+                    @Html.Partial("_Login")
+                    <!-- End UL #2 () -->
+                    <!--====================================-->
+                </div>
+                <!-- End Navbar UL () -->
+
+            </div>
+            <!--End Container-->
+
+        </nav>
+        <!-- End Navbar() -->
+        <!-- Start Render Body -->
+        <!-- Start Container -->
+    </div>
+    <div class="container">
+
+        <div class="row" style="padding-bottom:20px;">
+
+            @RenderBody()
+
+        </div>
+    </div>
+
+    <!-- End Container -->
+    <!-- End Render Body -->
+
+    <!--Start Footer-->
+
+    <footer class="myfooter">
+
+        <!-- Start Container -->
+        <div class="">
+
+            <!-- Start Row #01-->
+            <div class="row">
+
+                <!-- Start col-md-4 #01 -->
+
+                <div class="col-md-4">
+
+                    <h3>
+                        <i class="glyphicon glyphicon-question-sign"></i>
+                        من نحن
+                    </h3>
+                    <p>
+                      free jop WEPSITE.
+                    </p>
+                </div>
+
+                <!-- End col-md-4 #01-->
+                <!-- Start col-md-4 #02 -->
+
+                <div class="col-md-4">
+
+                    <h3>
+                        <i class="glyphicon glyphicon-globe"></i>
+                        روابط هامه
+                    </h3>
+
+                    <ul>
+                        <li><a href="#">وظائف للقطاع العام</li>
+                        <li><a href="#">وظائف للقطاع الخاص</li>
+                        <li><a href="#">وظائف خارج البلاد</li>
+                        <li><a href="#">وظائف متنوعه</li>
+                    </ul>
+                </div>
+
+                <!-- End col-md-4 #02 -->
+                <!-- Start col-md-4 #03 -->
+
+                <div class="col-md-4">
+
+                    <h3 class="S_h3">
+                        <i class="glyphicon glyphicon-envelope"></i>
+                        تواصل معنا
+                    </h3>
+
+                    <ul>
+                        <li><a href="#">صفحتنا علي الفيس بوك</li>
+                        <li><a href="#">تابعنا علي تويتر</li>
+                        <li><a href="#">شاهدنا علي اليويوب</li>
+                        <li><a href="#">أترك لنا رسالة</li>
+                    </ul>
+
+                </div>
+
+                <!-- End col-md-4 #03 -->
+
+            </div>
+            <!-- End Row #01-->
+
+        </div>
+        <!-- End Container -->
+        <!-- Start Row #02-->
+        <div class="subfooter">
+            <span>جميع الحقوق محفوظه لموقع التوظيف - 2019</span>
+        </div>
+        <!-- End Row #02-->
+
+
+    </footer>
+
+
+
+    <!--End Footer-->
+    <!-- Files Scripts -->
+    <script src="~/scripts/jquery.js"></script>
+    <script src="~/scripts/bootstrap.min.js"></script>
+
+    @RenderSection("scripts", required: false)
+
+
+</body>
+</html>

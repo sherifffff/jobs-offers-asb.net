@@ -1,0 +1,17 @@
+Open >> Tools >>>> NuGet >>>>Package Manager Console
+===============
+Install-Package Microsoft.AspNet.Identity.OWin
+Install-Package Microsoft.AspNet.Identity.EntityFramework
+Install-Package Microsoft.Owin.Host.SystemWeb
+========================================
+optimization
+Microsoft.Owin.Security.Google
+
+==============================================
+
+From Package Manager Console
+----------
+enable-migrations >>> 1
+add-migration Addcolumn >>> 2
+update-database >>> 3
+

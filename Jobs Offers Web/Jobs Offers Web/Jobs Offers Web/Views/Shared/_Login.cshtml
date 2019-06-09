@@ -1,0 +1,55 @@
+﻿@using Microsoft.AspNet.Identity
+
+<!-- تحققنا من حاله المستخدم هل هو مصادق للموقع  -->
+
+@if (Request.IsAuthenticated)
+{
+    <!-- إذا كان المستخدم مصادق حقا يظهر له زر تسجيل الخروج   -->
+
+    using (Html.BeginForm("Logoff", "Account", FormMethod.Post, new { id = "logoff" }))
+    {
+        <!-- للحماية الموقع -->
+        @Html.AntiForgeryToken()
+        <ul class="nav navbar-nav navbar-right">
+
+            <!-- حين يضغط علي اسمه + رسالة الترحيب يذهب الي الانديكس  -->
+
+            <li>
+                @Html.ActionLink("مرحباً بك يا :" + User.Identity.GetUserName(), "Index", "Manage")
+            </li>
+
+            <li>
+                <a href="javascript:document.getElementById('logoff').submit()">تسجيل الخروج</a>
+            </li>
+        </ul>
+    }
+}
+
+else
+{
+    <!-- Start UL #2 () -->
+
+    <ul class="nav navbar-nav navbar-right">
+
+        <!-- Start Element #1 () -->
+        <li>
+            <a href="~/Account/Login">
+                <i class="glyphicon glyphicon-user"></i>
+                تسجيل الدخول
+            </a>
+        </li>
+        <!-- End Element #1 () -->
+        <!-- Start Element #2 () -->
+        <li>
+            <a href="~/Account/Register">
+                <i class="glyphicon glyphicon-lock"></i>
+                أشتراك
+            </a>
+        </li>
+        <!-- End Element #2 () -->
+
+    </ul>
+
+    <!-- End UL #2 () -->
+
+}

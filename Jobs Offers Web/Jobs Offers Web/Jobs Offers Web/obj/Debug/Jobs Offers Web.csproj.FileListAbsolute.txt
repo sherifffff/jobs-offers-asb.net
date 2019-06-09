@@ -1,0 +1,308 @@
+E:\Software Engineering\Private\Jobs Offers Web\Jobs Offers Web\Jobs Offers Web\bin\ApplicationInsights.config
+E:\Software Engineering\Private\Jobs Offers Web\Jobs Offers Web\Jobs Offers Web\bin\roslyn\csc.exe
+E:\Software Engineering\Private\Jobs Offers Web\Jobs Offers Web\Jobs Offers Web\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\Software Engineering\Private\Jobs Offers Web\Jobs Offers Web\Jobs Offers Web\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\Software Engineering\Private\Jobs Offers Web\Jobs Offers Web\Jobs Offers Web\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\Software Engineering\Private\Jobs Offers Web\Jobs Offers Web\Jobs Offers Web\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\Software Engineering\Private\Jobs Offers Web\Jobs Offers Web\Jobs Offers Web\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\Software Engineering\Private\Jobs Offers Web\Jobs Offers Web\Jobs Offers Web\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\Software Engineering\Private\Jobs Offers Web\Jobs Offers Web\Jobs Offers Web\bin\roslyn\System.Collections.Immutable.dll
+E:\Software Engineering\Private\Jobs Offers Web\Jobs Offers Web\Jobs Offers Web\bin\roslyn\System.Reflection.Metadata.dll
+E:\Software Engineering\Private\Jobs Offers Web\Jobs Offers Web\Jobs Offers Web\bin\roslyn\vbc.exe
+E:\Software Engineering\Private\Jobs Offers Web\Jobs Offers Web\Jobs Offers Web\bin\roslyn\VBCSCompiler.exe
+E:\Software Engineering\Private\Jobs Offers Web\Jobs Offers Web\Jobs Offers Web\bin\roslyn\VBCSCompiler.exe.config
+E:\Software Engineering\Private\Jobs Offers Web\Jobs Offers Web\Jobs Offers Web\bin\Jobs Offers Web.dll.config
+E:\Software Engineering\Private\Jobs Offers Web\Jobs Offers Web\Jobs Offers Web\bin\Jobs Offers Web.dll
+E:\Software Engineering\Private\Jobs Offers Web\Jobs Offers Web\Jobs Offers Web\bin\Jobs Offers Web.pdb
+E:\Software Engineering\Private\Jobs Offers Web\Jobs Offers Web\Jobs Offers Web\bin\Microsoft.AI.Agent.Intercept.dll
+E:\Software Engineering\Private\Jobs Offers Web\Jobs Offers Web\Jobs Offers Web\bin\Microsoft.AI.DependencyCollector.dll
+E:\Software Engineering\Private\Jobs Offers Web\Jobs Offers Web\Jobs Offers Web\bin\Microsoft.AI.PerfCounterCollector.dll
+E:\Software Engineering\Private\Jobs Offers Web\Jobs Offers Web\Jobs Offers Web\bin\Microsoft.AI.ServerTelemetryChannel.dll
+E:\Software Engineering\Private\Jobs Offers Web\Jobs Offers Web\Jobs Offers Web\bin\Microsoft.AI.Web.dll
+E:\Software Engineering\Private\Jobs Offers Web\Jobs Offers Web\Jobs Offers Web\bin\Microsoft.AI.WindowsServer.dll
+E:\Software Engineering\Private\Jobs Offers Web\Jobs Offers Web\Jobs Offers Web\bin\Microsoft.ApplicationInsights.dll
+E:\Software Engineering\Private\Jobs Offers Web\Jobs Offers Web\Jobs Offers Web\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\Software Engineering\Private\Jobs Offers Web\Jobs Offers Web\Jobs Offers Web\bin\Microsoft.Web.Infrastructure.dll
+E:\Software Engineering\Private\Jobs Offers Web\Jobs Offers Web\Jobs Offers Web\bin\System.Web.Helpers.dll
+E:\Software Engineering\Private\Jobs Offers Web\Jobs Offers Web\Jobs Offers Web\bin\System.Web.Mvc.dll
+E:\Software Engineering\Private\Jobs Offers Web\Jobs Offers Web\Jobs Offers Web\bin\System.Web.Razor.dll
+E:\Software Engineering\Private\Jobs Offers Web\Jobs Offers Web\Jobs Offers Web\bin\System.Web.Webpages.Deployment.dll
+E:\Software Engineering\Private\Jobs Offers Web\Jobs Offers Web\Jobs Offers Web\bin\System.Web.Webpages.dll
+E:\Software Engineering\Private\Jobs Offers Web\Jobs Offers Web\Jobs Offers Web\bin\System.Web.Webpages.Razor.dll
+E:\Software Engineering\Private\Jobs Offers Web\Jobs Offers Web\Jobs Offers Web\bin\Microsoft.AI.DependencyCollector.xml
+E:\Software Engineering\Private\Jobs Offers Web\Jobs Offers Web\Jobs Offers Web\bin\Microsoft.AI.ServerTelemetryChannel.xml
+E:\Software Engineering\Private\Jobs Offers Web\Jobs Offers Web\Jobs Offers Web\bin\Microsoft.AI.Web.xml
+E:\Software Engineering\Private\Jobs Offers Web\Jobs Offers Web\Jobs Offers Web\bin\Microsoft.AI.WindowsServer.xml
+E:\Software Engineering\Private\Jobs Offers Web\Jobs Offers Web\Jobs Offers Web\bin\Microsoft.ApplicationInsights.xml
+E:\Software Engineering\Private\Jobs Offers Web\Jobs Offers Web\Jobs Offers Web\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\Software Engineering\Private\Jobs Offers Web\Jobs Offers Web\Jobs Offers Web\bin\System.Web.Razor.xml
+E:\Software Engineering\Private\Jobs Offers Web\Jobs Offers Web\Jobs Offers Web\bin\System.Web.Webpages.xml
+E:\Software Engineering\Private\Jobs Offers Web\Jobs Offers Web\Jobs Offers Web\bin\System.Web.Webpages.Deployment.xml
+E:\Software Engineering\Private\Jobs Offers Web\Jobs Offers Web\Jobs Offers Web\bin\System.Web.Webpages.Razor.xml
+E:\Software Engineering\Private\Jobs Offers Web\Jobs Offers Web\Jobs Offers Web\bin\System.Web.Helpers.xml
+E:\Software Engineering\Private\Jobs Offers Web\Jobs Offers Web\Jobs Offers Web\bin\System.Web.Mvc.xml
+E:\Software Engineering\Private\Jobs Offers Web\Jobs Offers Web\Jobs Offers Web\obj\Debug\Jobs Offers Web.csprojResolveAssemblyReference.cache
+E:\Software Engineering\Private\Jobs Offers Web\Jobs Offers Web\Jobs Offers Web\obj\Debug\Jobs Offers Web.dll
+E:\Software Engineering\Private\Jobs Offers Web\Jobs Offers Web\Jobs Offers Web\obj\Debug\Jobs Offers Web.pdb
+E:\Software Engineering\Private\Jobs Offers Web\Jobs Offers Web\Jobs Offers Web\bin\roslyn\csc.exe.config
+E:\Software Engineering\Private\Jobs Offers Web\Jobs Offers Web\Jobs Offers Web\bin\roslyn\csc.rsp
+E:\Software Engineering\Private\Jobs Offers Web\Jobs Offers Web\Jobs Offers Web\bin\roslyn\csi.exe
+E:\Software Engineering\Private\Jobs Offers Web\Jobs Offers Web\Jobs Offers Web\bin\roslyn\csi.rsp
+E:\Software Engineering\Private\Jobs Offers Web\Jobs Offers Web\Jobs Offers Web\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+E:\Software Engineering\Private\Jobs Offers Web\Jobs Offers Web\Jobs Offers Web\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+E:\Software Engineering\Private\Jobs Offers Web\Jobs Offers Web\Jobs Offers Web\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+E:\Software Engineering\Private\Jobs Offers Web\Jobs Offers Web\Jobs Offers Web\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+E:\Software Engineering\Private\Jobs Offers Web\Jobs Offers Web\Jobs Offers Web\bin\roslyn\System.AppContext.dll
+E:\Software Engineering\Private\Jobs Offers Web\Jobs Offers Web\Jobs Offers Web\bin\roslyn\System.Diagnostics.StackTrace.dll
+E:\Software Engineering\Private\Jobs Offers Web\Jobs Offers Web\Jobs Offers Web\bin\roslyn\System.IO.FileSystem.dll
+E:\Software Engineering\Private\Jobs Offers Web\Jobs Offers Web\Jobs Offers Web\bin\roslyn\System.IO.FileSystem.Primitives.dll
+E:\Software Engineering\Private\Jobs Offers Web\Jobs Offers Web\Jobs Offers Web\bin\roslyn\vbc.exe.config
+E:\Software Engineering\Private\Jobs Offers Web\Jobs Offers Web\Jobs Offers Web\bin\roslyn\vbc.rsp
+E:\Software Engineering\Private\Jobs Offers Web\Jobs Offers Web\Jobs Offers Web\bin\EntityFramework.dll
+E:\Software Engineering\Private\Jobs Offers Web\Jobs Offers Web\Jobs Offers Web\bin\EntityFramework.SqlServer.dll
+E:\Software Engineering\Private\Jobs Offers Web\Jobs Offers Web\Jobs Offers Web\bin\Microsoft.AspNet.TelemetryCorrelation.dll
+E:\Software Engineering\Private\Jobs Offers Web\Jobs Offers Web\Jobs Offers Web\bin\System.Diagnostics.DiagnosticSource.dll
+E:\Software Engineering\Private\Jobs Offers Web\Jobs Offers Web\Jobs Offers Web\bin\EntityFramework.xml
+E:\Software Engineering\Private\Jobs Offers Web\Jobs Offers Web\Jobs Offers Web\bin\EntityFramework.SqlServer.xml
+E:\Software Engineering\Private\Jobs Offers Web\Jobs Offers Web\Jobs Offers Web\bin\Microsoft.AI.PerfCounterCollector.xml
+E:\Software Engineering\Private\Jobs Offers Web\Jobs Offers Web\Jobs Offers Web\bin\Microsoft.AspNet.TelemetryCorrelation.xml
+E:\Software Engineering\Private\Jobs Offers Web\Jobs Offers Web\Jobs Offers Web\bin\System.Diagnostics.DiagnosticSource.xml
+E:\Software Engineering\Private\Jobs Offers Web\Jobs Offers Web\Jobs Offers Web\bin\Antlr3.Runtime.dll
+E:\Software Engineering\Private\Jobs Offers Web\Jobs Offers Web\Jobs Offers Web\bin\Microsoft.AspNet.Identity.Core.dll
+E:\Software Engineering\Private\Jobs Offers Web\Jobs Offers Web\Jobs Offers Web\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+E:\Software Engineering\Private\Jobs Offers Web\Jobs Offers Web\Jobs Offers Web\bin\Microsoft.AspNet.Identity.Owin.dll
+E:\Software Engineering\Private\Jobs Offers Web\Jobs Offers Web\Jobs Offers Web\bin\Microsoft.Owin.dll
+E:\Software Engineering\Private\Jobs Offers Web\Jobs Offers Web\Jobs Offers Web\bin\Microsoft.Owin.Host.SystemWeb.dll
+E:\Software Engineering\Private\Jobs Offers Web\Jobs Offers Web\Jobs Offers Web\bin\Microsoft.Owin.Security.Cookies.dll
+E:\Software Engineering\Private\Jobs Offers Web\Jobs Offers Web\Jobs Offers Web\bin\Microsoft.Owin.Security.dll
+E:\Software Engineering\Private\Jobs Offers Web\Jobs Offers Web\Jobs Offers Web\bin\Microsoft.Owin.Security.Google.dll
+E:\Software Engineering\Private\Jobs Offers Web\Jobs Offers Web\Jobs Offers Web\bin\Microsoft.Owin.Security.OAuth.dll
+E:\Software Engineering\Private\Jobs Offers Web\Jobs Offers Web\Jobs Offers Web\bin\Newtonsoft.Json.dll
+E:\Software Engineering\Private\Jobs Offers Web\Jobs Offers Web\Jobs Offers Web\bin\Owin.dll
+E:\Software Engineering\Private\Jobs Offers Web\Jobs Offers Web\Jobs Offers Web\bin\System.Web.Optimization.dll
+E:\Software Engineering\Private\Jobs Offers Web\Jobs Offers Web\Jobs Offers Web\bin\WebGrease.dll
+E:\Software Engineering\Private\Jobs Offers Web\Jobs Offers Web\Jobs Offers Web\bin\Antlr3.Runtime.pdb
+E:\Software Engineering\Private\Jobs Offers Web\Jobs Offers Web\Jobs Offers Web\bin\Microsoft.AspNet.Identity.Core.xml
+E:\Software Engineering\Private\Jobs Offers Web\Jobs Offers Web\Jobs Offers Web\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+E:\Software Engineering\Private\Jobs Offers Web\Jobs Offers Web\Jobs Offers Web\bin\Microsoft.AspNet.Identity.Owin.xml
+E:\Software Engineering\Private\Jobs Offers Web\Jobs Offers Web\Jobs Offers Web\bin\Microsoft.Owin.xml
+E:\Software Engineering\Private\Jobs Offers Web\Jobs Offers Web\Jobs Offers Web\bin\Microsoft.Owin.Host.SystemWeb.xml
+E:\Software Engineering\Private\Jobs Offers Web\Jobs Offers Web\Jobs Offers Web\bin\Microsoft.Owin.Security.xml
+E:\Software Engineering\Private\Jobs Offers Web\Jobs Offers Web\Jobs Offers Web\bin\Microsoft.Owin.Security.Cookies.xml
+E:\Software Engineering\Private\Jobs Offers Web\Jobs Offers Web\Jobs Offers Web\bin\Microsoft.Owin.Security.Google.xml
+E:\Software Engineering\Private\Jobs Offers Web\Jobs Offers Web\Jobs Offers Web\bin\Microsoft.Owin.Security.OAuth.xml
+E:\Software Engineering\Private\Jobs Offers Web\Jobs Offers Web\Jobs Offers Web\bin\Newtonsoft.Json.xml
+E:\Software Engineering\Private\Jobs Offers Web\Jobs Offers Web\Jobs Offers Web\bin\System.Web.Optimization.xml
+E:\Software Engineering\Private\Jobs Offers Web\Jobs Offers Web\Jobs Offers Web\obj\Debug\Jobs_Offers_Web.Migrations.InitialCreate.resources
+E:\Software Engineering\Private\Jobs Offers Web\Jobs Offers Web\Jobs Offers Web\obj\Debug\Jobs Offers Web.csproj.GenerateResource.Cache
+E:\Software Engineering\Private\Jobs Offers Web\Jobs Offers Web\Jobs Offers Web\obj\Debug\Jobs_Offers_Web.Migrations.Addcolumn.resources
+E:\Software Engineering\Private\Jobs Offers Web\Jobs Offers Web\Jobs Offers Web\obj\Debug\Jobs_Offers_Web.Migrations.AddCategoryTable.resources
+E:\Software Engineering\Private\Jobs Offers Web\Jobs Offers Web\Jobs Offers Web\obj\Debug\Jobs_Offers_Web.Migrations.AddJobsTable.resources
+E:\Software Engineering\Private\Jobs Offers Web\Jobs Offers Web\Jobs Offers Web\obj\Debug\Jobs_Offers_Web.Migrations.ApplyJobs.resources
+E:\Software Engineering\Private\Jobs Offers Web\Jobs Offers Web\Jobs Offers Web\obj\Debug\Jobs_Offers_Web.Migrations.EditJobModel.resources
+E:\Programming\Creation Programs\Projects Web\Jobs Offers Web\Jobs Offers Web\Jobs Offers Web\bin\ApplicationInsights.config
+E:\Programming\Creation Programs\Projects Web\Jobs Offers Web\Jobs Offers Web\Jobs Offers Web\bin\Jobs Offers Web.dll.config
+E:\Programming\Creation Programs\Projects Web\Jobs Offers Web\Jobs Offers Web\Jobs Offers Web\bin\Jobs Offers Web.dll
+E:\Programming\Creation Programs\Projects Web\Jobs Offers Web\Jobs Offers Web\Jobs Offers Web\bin\Jobs Offers Web.pdb
+E:\Programming\Creation Programs\Projects Web\Jobs Offers Web\Jobs Offers Web\Jobs Offers Web\bin\roslyn\csc.exe
+E:\Programming\Creation Programs\Projects Web\Jobs Offers Web\Jobs Offers Web\Jobs Offers Web\bin\roslyn\csc.exe.config
+E:\Programming\Creation Programs\Projects Web\Jobs Offers Web\Jobs Offers Web\Jobs Offers Web\bin\roslyn\csc.rsp
+E:\Programming\Creation Programs\Projects Web\Jobs Offers Web\Jobs Offers Web\Jobs Offers Web\bin\roslyn\csi.exe
+E:\Programming\Creation Programs\Projects Web\Jobs Offers Web\Jobs Offers Web\Jobs Offers Web\bin\roslyn\csi.rsp
+E:\Programming\Creation Programs\Projects Web\Jobs Offers Web\Jobs Offers Web\Jobs Offers Web\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\Programming\Creation Programs\Projects Web\Jobs Offers Web\Jobs Offers Web\Jobs Offers Web\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\Programming\Creation Programs\Projects Web\Jobs Offers Web\Jobs Offers Web\Jobs Offers Web\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+E:\Programming\Creation Programs\Projects Web\Jobs Offers Web\Jobs Offers Web\Jobs Offers Web\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\Programming\Creation Programs\Projects Web\Jobs Offers Web\Jobs Offers Web\Jobs Offers Web\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+E:\Programming\Creation Programs\Projects Web\Jobs Offers Web\Jobs Offers Web\Jobs Offers Web\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\Programming\Creation Programs\Projects Web\Jobs Offers Web\Jobs Offers Web\Jobs Offers Web\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\Programming\Creation Programs\Projects Web\Jobs Offers Web\Jobs Offers Web\Jobs Offers Web\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+E:\Programming\Creation Programs\Projects Web\Jobs Offers Web\Jobs Offers Web\Jobs Offers Web\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+E:\Programming\Creation Programs\Projects Web\Jobs Offers Web\Jobs Offers Web\Jobs Offers Web\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\Programming\Creation Programs\Projects Web\Jobs Offers Web\Jobs Offers Web\Jobs Offers Web\bin\roslyn\System.AppContext.dll
+E:\Programming\Creation Programs\Projects Web\Jobs Offers Web\Jobs Offers Web\Jobs Offers Web\bin\roslyn\System.Collections.Immutable.dll
+E:\Programming\Creation Programs\Projects Web\Jobs Offers Web\Jobs Offers Web\Jobs Offers Web\bin\roslyn\System.Diagnostics.StackTrace.dll
+E:\Programming\Creation Programs\Projects Web\Jobs Offers Web\Jobs Offers Web\Jobs Offers Web\bin\roslyn\System.IO.FileSystem.dll
+E:\Programming\Creation Programs\Projects Web\Jobs Offers Web\Jobs Offers Web\Jobs Offers Web\bin\roslyn\System.IO.FileSystem.Primitives.dll
+E:\Programming\Creation Programs\Projects Web\Jobs Offers Web\Jobs Offers Web\Jobs Offers Web\bin\roslyn\System.Reflection.Metadata.dll
+E:\Programming\Creation Programs\Projects Web\Jobs Offers Web\Jobs Offers Web\Jobs Offers Web\bin\roslyn\vbc.exe
+E:\Programming\Creation Programs\Projects Web\Jobs Offers Web\Jobs Offers Web\Jobs Offers Web\bin\roslyn\vbc.exe.config
+E:\Programming\Creation Programs\Projects Web\Jobs Offers Web\Jobs Offers Web\Jobs Offers Web\bin\roslyn\vbc.rsp
+E:\Programming\Creation Programs\Projects Web\Jobs Offers Web\Jobs Offers Web\Jobs Offers Web\bin\roslyn\VBCSCompiler.exe
+E:\Programming\Creation Programs\Projects Web\Jobs Offers Web\Jobs Offers Web\Jobs Offers Web\bin\roslyn\VBCSCompiler.exe.config
+E:\Programming\Creation Programs\Projects Web\Jobs Offers Web\Jobs Offers Web\Jobs Offers Web\bin\Antlr3.Runtime.dll
+E:\Programming\Creation Programs\Projects Web\Jobs Offers Web\Jobs Offers Web\Jobs Offers Web\bin\EntityFramework.dll
+E:\Programming\Creation Programs\Projects Web\Jobs Offers Web\Jobs Offers Web\Jobs Offers Web\bin\EntityFramework.SqlServer.dll
+E:\Programming\Creation Programs\Projects Web\Jobs Offers Web\Jobs Offers Web\Jobs Offers Web\bin\Microsoft.AI.Agent.Intercept.dll
+E:\Programming\Creation Programs\Projects Web\Jobs Offers Web\Jobs Offers Web\Jobs Offers Web\bin\Microsoft.AI.DependencyCollector.dll
+E:\Programming\Creation Programs\Projects Web\Jobs Offers Web\Jobs Offers Web\Jobs Offers Web\bin\Microsoft.AI.PerfCounterCollector.dll
+E:\Programming\Creation Programs\Projects Web\Jobs Offers Web\Jobs Offers Web\Jobs Offers Web\bin\Microsoft.AI.ServerTelemetryChannel.dll
+E:\Programming\Creation Programs\Projects Web\Jobs Offers Web\Jobs Offers Web\Jobs Offers Web\bin\Microsoft.AI.Web.dll
+E:\Programming\Creation Programs\Projects Web\Jobs Offers Web\Jobs Offers Web\Jobs Offers Web\bin\Microsoft.AI.WindowsServer.dll
+E:\Programming\Creation Programs\Projects Web\Jobs Offers Web\Jobs Offers Web\Jobs Offers Web\bin\Microsoft.ApplicationInsights.dll
+E:\Programming\Creation Programs\Projects Web\Jobs Offers Web\Jobs Offers Web\Jobs Offers Web\bin\Microsoft.AspNet.Identity.Core.dll
+E:\Programming\Creation Programs\Projects Web\Jobs Offers Web\Jobs Offers Web\Jobs Offers Web\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+E:\Programming\Creation Programs\Projects Web\Jobs Offers Web\Jobs Offers Web\Jobs Offers Web\bin\Microsoft.AspNet.Identity.Owin.dll
+E:\Programming\Creation Programs\Projects Web\Jobs Offers Web\Jobs Offers Web\Jobs Offers Web\bin\Microsoft.AspNet.TelemetryCorrelation.dll
+E:\Programming\Creation Programs\Projects Web\Jobs Offers Web\Jobs Offers Web\Jobs Offers Web\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\Programming\Creation Programs\Projects Web\Jobs Offers Web\Jobs Offers Web\Jobs Offers Web\bin\Microsoft.Owin.dll
+E:\Programming\Creation Programs\Projects Web\Jobs Offers Web\Jobs Offers Web\Jobs Offers Web\bin\Microsoft.Owin.Host.SystemWeb.dll
+E:\Programming\Creation Programs\Projects Web\Jobs Offers Web\Jobs Offers Web\Jobs Offers Web\bin\Microsoft.Owin.Security.Cookies.dll
+E:\Programming\Creation Programs\Projects Web\Jobs Offers Web\Jobs Offers Web\Jobs Offers Web\bin\Microsoft.Owin.Security.dll
+E:\Programming\Creation Programs\Projects Web\Jobs Offers Web\Jobs Offers Web\Jobs Offers Web\bin\Microsoft.Owin.Security.Google.dll
+E:\Programming\Creation Programs\Projects Web\Jobs Offers Web\Jobs Offers Web\Jobs Offers Web\bin\Microsoft.Owin.Security.OAuth.dll
+E:\Programming\Creation Programs\Projects Web\Jobs Offers Web\Jobs Offers Web\Jobs Offers Web\bin\Microsoft.Web.Infrastructure.dll
+E:\Programming\Creation Programs\Projects Web\Jobs Offers Web\Jobs Offers Web\Jobs Offers Web\bin\Newtonsoft.Json.dll
+E:\Programming\Creation Programs\Projects Web\Jobs Offers Web\Jobs Offers Web\Jobs Offers Web\bin\Owin.dll
+E:\Programming\Creation Programs\Projects Web\Jobs Offers Web\Jobs Offers Web\Jobs Offers Web\bin\System.Diagnostics.DiagnosticSource.dll
+E:\Programming\Creation Programs\Projects Web\Jobs Offers Web\Jobs Offers Web\Jobs Offers Web\bin\System.Web.Helpers.dll
+E:\Programming\Creation Programs\Projects Web\Jobs Offers Web\Jobs Offers Web\Jobs Offers Web\bin\System.Web.Mvc.dll
+E:\Programming\Creation Programs\Projects Web\Jobs Offers Web\Jobs Offers Web\Jobs Offers Web\bin\System.Web.Optimization.dll
+E:\Programming\Creation Programs\Projects Web\Jobs Offers Web\Jobs Offers Web\Jobs Offers Web\bin\System.Web.Razor.dll
+E:\Programming\Creation Programs\Projects Web\Jobs Offers Web\Jobs Offers Web\Jobs Offers Web\bin\System.Web.WebPages.Deployment.dll
+E:\Programming\Creation Programs\Projects Web\Jobs Offers Web\Jobs Offers Web\Jobs Offers Web\bin\System.Web.WebPages.dll
+E:\Programming\Creation Programs\Projects Web\Jobs Offers Web\Jobs Offers Web\Jobs Offers Web\bin\System.Web.WebPages.Razor.dll
+E:\Programming\Creation Programs\Projects Web\Jobs Offers Web\Jobs Offers Web\Jobs Offers Web\bin\WebGrease.dll
+E:\Programming\Creation Programs\Projects Web\Jobs Offers Web\Jobs Offers Web\Jobs Offers Web\bin\Antlr3.Runtime.pdb
+E:\Programming\Creation Programs\Projects Web\Jobs Offers Web\Jobs Offers Web\Jobs Offers Web\bin\EntityFramework.xml
+E:\Programming\Creation Programs\Projects Web\Jobs Offers Web\Jobs Offers Web\Jobs Offers Web\bin\EntityFramework.SqlServer.xml
+E:\Programming\Creation Programs\Projects Web\Jobs Offers Web\Jobs Offers Web\Jobs Offers Web\bin\Microsoft.AI.DependencyCollector.xml
+E:\Programming\Creation Programs\Projects Web\Jobs Offers Web\Jobs Offers Web\Jobs Offers Web\bin\Microsoft.AI.PerfCounterCollector.xml
+E:\Programming\Creation Programs\Projects Web\Jobs Offers Web\Jobs Offers Web\Jobs Offers Web\bin\Microsoft.AI.ServerTelemetryChannel.xml
+E:\Programming\Creation Programs\Projects Web\Jobs Offers Web\Jobs Offers Web\Jobs Offers Web\bin\Microsoft.AI.Web.xml
+E:\Programming\Creation Programs\Projects Web\Jobs Offers Web\Jobs Offers Web\Jobs Offers Web\bin\Microsoft.AI.WindowsServer.xml
+E:\Programming\Creation Programs\Projects Web\Jobs Offers Web\Jobs Offers Web\Jobs Offers Web\bin\Microsoft.ApplicationInsights.xml
+E:\Programming\Creation Programs\Projects Web\Jobs Offers Web\Jobs Offers Web\Jobs Offers Web\bin\Microsoft.AspNet.Identity.Core.xml
+E:\Programming\Creation Programs\Projects Web\Jobs Offers Web\Jobs Offers Web\Jobs Offers Web\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+E:\Programming\Creation Programs\Projects Web\Jobs Offers Web\Jobs Offers Web\Jobs Offers Web\bin\Microsoft.AspNet.Identity.Owin.xml
+E:\Programming\Creation Programs\Projects Web\Jobs Offers Web\Jobs Offers Web\Jobs Offers Web\bin\Microsoft.AspNet.TelemetryCorrelation.xml
+E:\Programming\Creation Programs\Projects Web\Jobs Offers Web\Jobs Offers Web\Jobs Offers Web\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\Programming\Creation Programs\Projects Web\Jobs Offers Web\Jobs Offers Web\Jobs Offers Web\bin\Microsoft.Owin.xml
+E:\Programming\Creation Programs\Projects Web\Jobs Offers Web\Jobs Offers Web\Jobs Offers Web\bin\Microsoft.Owin.Host.SystemWeb.xml
+E:\Programming\Creation Programs\Projects Web\Jobs Offers Web\Jobs Offers Web\Jobs Offers Web\bin\Microsoft.Owin.Security.xml
+E:\Programming\Creation Programs\Projects Web\Jobs Offers Web\Jobs Offers Web\Jobs Offers Web\bin\Microsoft.Owin.Security.Cookies.xml
+E:\Programming\Creation Programs\Projects Web\Jobs Offers Web\Jobs Offers Web\Jobs Offers Web\bin\Microsoft.Owin.Security.Google.xml
+E:\Programming\Creation Programs\Projects Web\Jobs Offers Web\Jobs Offers Web\Jobs Offers Web\bin\Microsoft.Owin.Security.OAuth.xml
+E:\Programming\Creation Programs\Projects Web\Jobs Offers Web\Jobs Offers Web\Jobs Offers Web\bin\Newtonsoft.Json.xml
+E:\Programming\Creation Programs\Projects Web\Jobs Offers Web\Jobs Offers Web\Jobs Offers Web\bin\System.Diagnostics.DiagnosticSource.xml
+E:\Programming\Creation Programs\Projects Web\Jobs Offers Web\Jobs Offers Web\Jobs Offers Web\bin\System.Web.Helpers.xml
+E:\Programming\Creation Programs\Projects Web\Jobs Offers Web\Jobs Offers Web\Jobs Offers Web\bin\System.Web.Mvc.xml
+E:\Programming\Creation Programs\Projects Web\Jobs Offers Web\Jobs Offers Web\Jobs Offers Web\bin\System.Web.Optimization.xml
+E:\Programming\Creation Programs\Projects Web\Jobs Offers Web\Jobs Offers Web\Jobs Offers Web\bin\System.Web.Razor.xml
+E:\Programming\Creation Programs\Projects Web\Jobs Offers Web\Jobs Offers Web\Jobs Offers Web\bin\System.Web.WebPages.xml
+E:\Programming\Creation Programs\Projects Web\Jobs Offers Web\Jobs Offers Web\Jobs Offers Web\bin\System.Web.WebPages.Deployment.xml
+E:\Programming\Creation Programs\Projects Web\Jobs Offers Web\Jobs Offers Web\Jobs Offers Web\bin\System.Web.WebPages.Razor.xml
+E:\Programming\Creation Programs\Projects Web\Jobs Offers Web\Jobs Offers Web\Jobs Offers Web\obj\Debug\Jobs Offers Web.csprojAssemblyReference.cache
+E:\Programming\Creation Programs\Projects Web\Jobs Offers Web\Jobs Offers Web\Jobs Offers Web\obj\Debug\Jobs_Offers_Web.Migrations.InitialCreate.resources
+E:\Programming\Creation Programs\Projects Web\Jobs Offers Web\Jobs Offers Web\Jobs Offers Web\obj\Debug\Jobs_Offers_Web.Migrations.Addcolumn.resources
+E:\Programming\Creation Programs\Projects Web\Jobs Offers Web\Jobs Offers Web\Jobs Offers Web\obj\Debug\Jobs_Offers_Web.Migrations.AddCategoryTable.resources
+E:\Programming\Creation Programs\Projects Web\Jobs Offers Web\Jobs Offers Web\Jobs Offers Web\obj\Debug\Jobs_Offers_Web.Migrations.AddJobsTable.resources
+E:\Programming\Creation Programs\Projects Web\Jobs Offers Web\Jobs Offers Web\Jobs Offers Web\obj\Debug\Jobs_Offers_Web.Migrations.ApplyJobs.resources
+E:\Programming\Creation Programs\Projects Web\Jobs Offers Web\Jobs Offers Web\Jobs Offers Web\obj\Debug\Jobs_Offers_Web.Migrations.EditJobModel.resources
+E:\Programming\Creation Programs\Projects Web\Jobs Offers Web\Jobs Offers Web\Jobs Offers Web\obj\Debug\Jobs Offers Web.csproj.GenerateResource.cache
+E:\Programming\Creation Programs\Projects Web\Jobs Offers Web\Jobs Offers Web\Jobs Offers Web\obj\Debug\Jobs Offers Web.csproj.CoreCompileInputs.cache
+E:\Programming\Creation Programs\Projects Web\Jobs Offers Web\Jobs Offers Web\Jobs Offers Web\obj\Debug\Jobs Offers Web.csproj.CopyComplete
+E:\Programming\Creation Programs\Projects Web\Jobs Offers Web\Jobs Offers Web\Jobs Offers Web\obj\Debug\Jobs Offers Web.dll
+E:\Programming\Creation Programs\Projects Web\Jobs Offers Web\Jobs Offers Web\Jobs Offers Web\obj\Debug\Jobs Offers Web.pdb
+D:\Jobs Offers Web\Jobs Offers Web\Jobs Offers Web\bin\ApplicationInsights.config
+D:\Jobs Offers Web\Jobs Offers Web\Jobs Offers Web\bin\Jobs Offers Web.dll.config
+D:\Jobs Offers Web\Jobs Offers Web\Jobs Offers Web\bin\Jobs Offers Web.dll
+D:\Jobs Offers Web\Jobs Offers Web\Jobs Offers Web\bin\Jobs Offers Web.pdb
+D:\Jobs Offers Web\Jobs Offers Web\Jobs Offers Web\bin\roslyn\csc.exe
+D:\Jobs Offers Web\Jobs Offers Web\Jobs Offers Web\bin\roslyn\csc.exe.config
+D:\Jobs Offers Web\Jobs Offers Web\Jobs Offers Web\bin\roslyn\csc.rsp
+D:\Jobs Offers Web\Jobs Offers Web\Jobs Offers Web\bin\roslyn\csi.exe
+D:\Jobs Offers Web\Jobs Offers Web\Jobs Offers Web\bin\roslyn\csi.rsp
+D:\Jobs Offers Web\Jobs Offers Web\Jobs Offers Web\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Jobs Offers Web\Jobs Offers Web\Jobs Offers Web\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Jobs Offers Web\Jobs Offers Web\Jobs Offers Web\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\Jobs Offers Web\Jobs Offers Web\Jobs Offers Web\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Jobs Offers Web\Jobs Offers Web\Jobs Offers Web\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\Jobs Offers Web\Jobs Offers Web\Jobs Offers Web\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Jobs Offers Web\Jobs Offers Web\Jobs Offers Web\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Jobs Offers Web\Jobs Offers Web\Jobs Offers Web\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\Jobs Offers Web\Jobs Offers Web\Jobs Offers Web\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\Jobs Offers Web\Jobs Offers Web\Jobs Offers Web\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Jobs Offers Web\Jobs Offers Web\Jobs Offers Web\bin\roslyn\System.AppContext.dll
+D:\Jobs Offers Web\Jobs Offers Web\Jobs Offers Web\bin\roslyn\System.Collections.Immutable.dll
+D:\Jobs Offers Web\Jobs Offers Web\Jobs Offers Web\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\Jobs Offers Web\Jobs Offers Web\Jobs Offers Web\bin\roslyn\System.IO.FileSystem.dll
+D:\Jobs Offers Web\Jobs Offers Web\Jobs Offers Web\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\Jobs Offers Web\Jobs Offers Web\Jobs Offers Web\bin\roslyn\System.Reflection.Metadata.dll
+D:\Jobs Offers Web\Jobs Offers Web\Jobs Offers Web\bin\roslyn\vbc.exe
+D:\Jobs Offers Web\Jobs Offers Web\Jobs Offers Web\bin\roslyn\vbc.exe.config
+D:\Jobs Offers Web\Jobs Offers Web\Jobs Offers Web\bin\roslyn\vbc.rsp
+D:\Jobs Offers Web\Jobs Offers Web\Jobs Offers Web\bin\roslyn\VBCSCompiler.exe
+D:\Jobs Offers Web\Jobs Offers Web\Jobs Offers Web\bin\roslyn\VBCSCompiler.exe.config
+D:\Jobs Offers Web\Jobs Offers Web\Jobs Offers Web\bin\Antlr3.Runtime.dll
+D:\Jobs Offers Web\Jobs Offers Web\Jobs Offers Web\bin\EntityFramework.dll
+D:\Jobs Offers Web\Jobs Offers Web\Jobs Offers Web\bin\EntityFramework.SqlServer.dll
+D:\Jobs Offers Web\Jobs Offers Web\Jobs Offers Web\bin\Microsoft.AI.Agent.Intercept.dll
+D:\Jobs Offers Web\Jobs Offers Web\Jobs Offers Web\bin\Microsoft.AI.DependencyCollector.dll
+D:\Jobs Offers Web\Jobs Offers Web\Jobs Offers Web\bin\Microsoft.AI.PerfCounterCollector.dll
+D:\Jobs Offers Web\Jobs Offers Web\Jobs Offers Web\bin\Microsoft.AI.ServerTelemetryChannel.dll
+D:\Jobs Offers Web\Jobs Offers Web\Jobs Offers Web\bin\Microsoft.AI.Web.dll
+D:\Jobs Offers Web\Jobs Offers Web\Jobs Offers Web\bin\Microsoft.AI.WindowsServer.dll
+D:\Jobs Offers Web\Jobs Offers Web\Jobs Offers Web\bin\Microsoft.ApplicationInsights.dll
+D:\Jobs Offers Web\Jobs Offers Web\Jobs Offers Web\bin\Microsoft.AspNet.Identity.Core.dll
+D:\Jobs Offers Web\Jobs Offers Web\Jobs Offers Web\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\Jobs Offers Web\Jobs Offers Web\Jobs Offers Web\bin\Microsoft.AspNet.Identity.Owin.dll
+D:\Jobs Offers Web\Jobs Offers Web\Jobs Offers Web\bin\Microsoft.AspNet.TelemetryCorrelation.dll
+D:\Jobs Offers Web\Jobs Offers Web\Jobs Offers Web\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Jobs Offers Web\Jobs Offers Web\Jobs Offers Web\bin\Microsoft.Owin.dll
+D:\Jobs Offers Web\Jobs Offers Web\Jobs Offers Web\bin\Microsoft.Owin.Host.SystemWeb.dll
+D:\Jobs Offers Web\Jobs Offers Web\Jobs Offers Web\bin\Microsoft.Owin.Security.Cookies.dll
+D:\Jobs Offers Web\Jobs Offers Web\Jobs Offers Web\bin\Microsoft.Owin.Security.dll
+D:\Jobs Offers Web\Jobs Offers Web\Jobs Offers Web\bin\Microsoft.Owin.Security.Google.dll
+D:\Jobs Offers Web\Jobs Offers Web\Jobs Offers Web\bin\Microsoft.Owin.Security.OAuth.dll
+D:\Jobs Offers Web\Jobs Offers Web\Jobs Offers Web\bin\Microsoft.Web.Infrastructure.dll
+D:\Jobs Offers Web\Jobs Offers Web\Jobs Offers Web\bin\Newtonsoft.Json.dll
+D:\Jobs Offers Web\Jobs Offers Web\Jobs Offers Web\bin\Owin.dll
+D:\Jobs Offers Web\Jobs Offers Web\Jobs Offers Web\bin\System.Diagnostics.DiagnosticSource.dll
+D:\Jobs Offers Web\Jobs Offers Web\Jobs Offers Web\bin\System.Web.Helpers.dll
+D:\Jobs Offers Web\Jobs Offers Web\Jobs Offers Web\bin\System.Web.Mvc.dll
+D:\Jobs Offers Web\Jobs Offers Web\Jobs Offers Web\bin\System.Web.Optimization.dll
+D:\Jobs Offers Web\Jobs Offers Web\Jobs Offers Web\bin\System.Web.Razor.dll
+D:\Jobs Offers Web\Jobs Offers Web\Jobs Offers Web\bin\System.Web.WebPages.Deployment.dll
+D:\Jobs Offers Web\Jobs Offers Web\Jobs Offers Web\bin\System.Web.WebPages.dll
+D:\Jobs Offers Web\Jobs Offers Web\Jobs Offers Web\bin\System.Web.WebPages.Razor.dll
+D:\Jobs Offers Web\Jobs Offers Web\Jobs Offers Web\bin\WebGrease.dll
+D:\Jobs Offers Web\Jobs Offers Web\Jobs Offers Web\bin\Antlr3.Runtime.pdb
+D:\Jobs Offers Web\Jobs Offers Web\Jobs Offers Web\bin\EntityFramework.xml
+D:\Jobs Offers Web\Jobs Offers Web\Jobs Offers Web\bin\EntityFramework.SqlServer.xml
+D:\Jobs Offers Web\Jobs Offers Web\Jobs Offers Web\bin\Microsoft.AI.DependencyCollector.xml
+D:\Jobs Offers Web\Jobs Offers Web\Jobs Offers Web\bin\Microsoft.AI.PerfCounterCollector.xml
+D:\Jobs Offers Web\Jobs Offers Web\Jobs Offers Web\bin\Microsoft.AI.ServerTelemetryChannel.xml
+D:\Jobs Offers Web\Jobs Offers Web\Jobs Offers Web\bin\Microsoft.AI.Web.xml
+D:\Jobs Offers Web\Jobs Offers Web\Jobs Offers Web\bin\Microsoft.AI.WindowsServer.xml
+D:\Jobs Offers Web\Jobs Offers Web\Jobs Offers Web\bin\Microsoft.ApplicationInsights.xml
+D:\Jobs Offers Web\Jobs Offers Web\Jobs Offers Web\bin\Microsoft.AspNet.Identity.Core.xml
+D:\Jobs Offers Web\Jobs Offers Web\Jobs Offers Web\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\Jobs Offers Web\Jobs Offers Web\Jobs Offers Web\bin\Microsoft.AspNet.Identity.Owin.xml
+D:\Jobs Offers Web\Jobs Offers Web\Jobs Offers Web\bin\Microsoft.AspNet.TelemetryCorrelation.xml
+D:\Jobs Offers Web\Jobs Offers Web\Jobs Offers Web\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Jobs Offers Web\Jobs Offers Web\Jobs Offers Web\bin\Microsoft.Owin.xml
+D:\Jobs Offers Web\Jobs Offers Web\Jobs Offers Web\bin\Microsoft.Owin.Host.SystemWeb.xml
+D:\Jobs Offers Web\Jobs Offers Web\Jobs Offers Web\bin\Microsoft.Owin.Security.xml
+D:\Jobs Offers Web\Jobs Offers Web\Jobs Offers Web\bin\Microsoft.Owin.Security.Cookies.xml
+D:\Jobs Offers Web\Jobs Offers Web\Jobs Offers Web\bin\Microsoft.Owin.Security.Google.xml
+D:\Jobs Offers Web\Jobs Offers Web\Jobs Offers Web\bin\Microsoft.Owin.Security.OAuth.xml
+D:\Jobs Offers Web\Jobs Offers Web\Jobs Offers Web\bin\Newtonsoft.Json.xml
+D:\Jobs Offers Web\Jobs Offers Web\Jobs Offers Web\bin\System.Diagnostics.DiagnosticSource.xml
+D:\Jobs Offers Web\Jobs Offers Web\Jobs Offers Web\bin\System.Web.Helpers.xml
+D:\Jobs Offers Web\Jobs Offers Web\Jobs Offers Web\bin\System.Web.Mvc.xml
+D:\Jobs Offers Web\Jobs Offers Web\Jobs Offers Web\bin\System.Web.Optimization.xml
+D:\Jobs Offers Web\Jobs Offers Web\Jobs Offers Web\bin\System.Web.Razor.xml
+D:\Jobs Offers Web\Jobs Offers Web\Jobs Offers Web\bin\System.Web.WebPages.xml
+D:\Jobs Offers Web\Jobs Offers Web\Jobs Offers Web\bin\System.Web.WebPages.Deployment.xml
+D:\Jobs Offers Web\Jobs Offers Web\Jobs Offers Web\bin\System.Web.WebPages.Razor.xml
+D:\Jobs Offers Web\Jobs Offers Web\Jobs Offers Web\obj\Debug\Jobs Offers Web.csprojResolveAssemblyReference.cache
+D:\Jobs Offers Web\Jobs Offers Web\Jobs Offers Web\obj\Debug\Jobs_Offers_Web.Migrations.InitialCreate.resources
+D:\Jobs Offers Web\Jobs Offers Web\Jobs Offers Web\obj\Debug\Jobs_Offers_Web.Migrations.Addcolumn.resources
+D:\Jobs Offers Web\Jobs Offers Web\Jobs Offers Web\obj\Debug\Jobs_Offers_Web.Migrations.AddCategoryTable.resources
+D:\Jobs Offers Web\Jobs Offers Web\Jobs Offers Web\obj\Debug\Jobs_Offers_Web.Migrations.AddJobsTable.resources
+D:\Jobs Offers Web\Jobs Offers Web\Jobs Offers Web\obj\Debug\Jobs_Offers_Web.Migrations.ApplyJobs.resources
+D:\Jobs Offers Web\Jobs Offers Web\Jobs Offers Web\obj\Debug\Jobs_Offers_Web.Migrations.EditJobModel.resources
+D:\Jobs Offers Web\Jobs Offers Web\Jobs Offers Web\obj\Debug\Jobs Offers Web.csproj.GenerateResource.Cache
+D:\Jobs Offers Web\Jobs Offers Web\Jobs Offers Web\obj\Debug\Jobs Offers Web.dll
+D:\Jobs Offers Web\Jobs Offers Web\Jobs Offers Web\obj\Debug\Jobs Offers Web.pdb

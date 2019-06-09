@@ -1,0 +1,41 @@
+- * «·ŒÿÊ«  * - 
+
+- 1 - ‰–Â» ≈·Ì „Ã·œ «·‹ Controllers À„ ≈·Ì ﬂ·«” Account Controller À„ ≈·Ì Register Get Êﬁ„‰« »‹ ﬂ «»… «·ﬂÊœ «· «·Ì : 
+            /* */
+            ViewBag.UserType = new SelectList(new[] { "‰«‘—", "»«ÕÀ" });
+            /* */ 
+=================================================================================
+2 - –Â»‰« ≈·Ì „Ã·œ View À„ „Ã·œ Account À„ «·Ì ’›Õ… Register.cshtml À„ ﬁ„‰« »‹ ﬂ «»… «·ﬂÊœ «· «·Ì : 
+    /*   ===============UserType==================   */
+    <div class="form-group">
+        @Html.LabelFor(m => m.UserType, new { @class = "col-md-2 control-label" })
+        <div class="col-md-10">
+            @Html.DropDownList("UserType")
+        </div>
+    </div>
+    /*   =================================   */
+=================================================================================
+3 - À„ –Â»‰« „·Ãœ Models À„ «·Ì ﬂ·«” AccountViewModels À„ ≈·Ì œ«·… RegisterViewModel Êﬁ„‰« »‹ ﬂ «»… «·ﬂÊœ «· «·Ì :
+
+/*   =================================   */
+        [Required]
+        [DisplayName("‰Ê⁄ «·Õ”«»")]
+        public string UserType { get; set; }
+/*   =================================   */
+=================================================================================
+4 - À„ –Â»‰« ≈·Ì „Ã·œ Models „—… √Œ—Ì À„ ≈·Ì ﬂ·«” IdentityModels À„ ≈·Ì œ«·… ApplicationUser Êﬁ„‰« »‹ ﬂ «»… «·ﬂÊœ «· «·Ì :
+
+        /* ===================== */
+        public string UserType { get; set;}
+        /* ===================== */
+
+=================================================================================
+ 5 - À„ –Â»‰« ≈·Ì „Ã·œ Controllers „—Â √Œ—Ì À„ ﬂ·«” AccountController „—… √Œ—Ì Êﬁ„‰« »‹  „—Ì— «·ﬁÌ„ «·ÃœÌœ ›‹ Register Post ﬂ‹ «· «·Ì : 
+
+            if (ModelState.IsValid) »⁄œ Â–Â «·Ã„·Â
+            {
+                ViewBag.UserType = new SelectList(new[] { "‰«‘—", "»«ÕÀ" }); ﬂ «»… ‰›” «·”ÿ— «·„ﬂ Ê» ›‹ Register Get 
+
+                var user = new ApplicationUser { UserName = model.UserName, Email = model.Email,UserType=model.UserType}; «·ﬁÌ„ «·ÃœÌœÂ Â‰«
+
+=================================================================================

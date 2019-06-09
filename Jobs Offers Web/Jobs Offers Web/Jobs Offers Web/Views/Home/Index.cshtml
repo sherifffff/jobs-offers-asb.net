@@ -1,0 +1,44 @@
+﻿
+<!-- لـ التعامل مع جدول الأصناف -->
+
+
+@model IEnumerable<Job_Offers_Website.Models.Category>
+
+@{
+    ViewBag.Title = "Home Page";
+}
+
+<div class="jumbotron">
+    <h3>مرحباً بك عزيزي الزائر
+    </h3>
+    <p>مرحباً بك فـ فضاء البحث عن الوظائف بـ أختلاف أصنافها يمكنك أيضا نشر وظيفة إن كنت ناشراً ويمكنك التقدم إلي وظيفة إذا كنت باحثاً عن عمل </p>
+    <p><a href="http://asp.net" class="btn btn-primary btn-lg">المزيد من التفاصيل &raquo;</a></p>
+</div>
+
+<!-- جلب الأصناف فـ الشاشة الرئيسية -->
+
+@foreach (var item in Model)
+{
+    <div class="panel panel-default" style="padding:15px;">
+        <h1 class="panel-heading">@Html.DisplayFor(modelItem => item.CategoryName)</h1>
+        <h5>@Html.DisplayFor(modelItem => item.CategoryDescription)</h5>
+
+
+        <!--جلب الوظائف المنسدلة تحت كل صنف في الشاشة الرئيسية-->
+        <div class="row">
+            @foreach (var subItem in item.Jobs)
+                {
+                <div class="col-md-3 thumbnail" style="margin-left:20px;margin-bottom:30px;height:450px;">
+                    <img src="~/Uploads/@subItem.JobImage" />
+                    <h3>@Html.DisplayFor(modelItem => subItem.JobTitle)</h3>
+                    <h5>@Html.DisplayFor(modelItem => subItem.JobContent)</h5>
+
+                    <!--<button class="btn btn-default">التفاصيل</button>*/-->
+
+                    @Html.ActionLink("التفاصيل", "Details", new { JobId =subItem.ID },new { @class = "btn btn-primary" }) 
+
+                </div>
+            }
+        </div>
+    </div>
+}
